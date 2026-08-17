@@ -1,10 +1,12 @@
-# Ferramentas online para quebrar HASH: 
+# Ferramentas online:
+
+## Para quebrar HASH
 
 ### [Hashes.com](https://hashes.com/en/decrypt/hash)  (Mais eficiente e versátil)
 
 ### [CrackStation](https://crackstation.net/)
 
-# Ferramentas para identificar tipo de HASH:
+## Ferramentas para identificar tipo de HASH
 
 ### [Hashes.com](https://hashes.com/en/tools/hash_identifier)
 
